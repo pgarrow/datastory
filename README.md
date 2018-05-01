@@ -1,4 +1,4 @@
-# Example Title
+# ENGL688K Assignment 3: Rubble as it Relates to Ruins in the realm of Twitter
 
 ## Why
 
@@ -8,5 +8,4 @@
 
 A link to my [data](https://github.com/umd-mith/datastory/raw/master/data/dh.csv)
 
-![chart](https://github.com/umd-mith/datastory/raw/master/images/chart.png)
 
