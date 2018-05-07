@@ -18,6 +18,6 @@ Lindblad, Purdom. “Advocacy by Design: Moving Between Theory & Practice.” Li
 
 Kang, Martha. “Exploring the 7 Different Types of Data Stories.” Mediashift.org, 15 Jun. 2015, http://mediashift.org/2015/06/exploring-the-7-different-types-of-data-stories. Accessed 6 May 2018. 
 
-A link to my [data](https://github.com/umd-mith/datastory/raw/master/data/dh.csv)
+A link to my [data](https://docs.google.com/spreadsheets/d/1LTMXNeOAaVta4koQq3roJ7jNC8wRCyNuAOMP6wJGTAg/edit#gid=626141940)
 
 
