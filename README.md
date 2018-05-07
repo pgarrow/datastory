@@ -2,7 +2,7 @@
 ## By Philip Garrow
 ### May 7th, 2018
 
-As I am also enrolled in Professor Kari Kraus’s ENGL 702: “Ruins: Literatures and Theories of Decay,” I spent several weeks contemplating the meaning of various words associated with age and deterioration.  One of the most intriguing terms that we’ve addressed extensively in that class is “rubble.”  To ground our conversation, Professor Kraus directed us to read the introduction to Gastón R. Gordillo’s 2014 book, Rubble: The Afterlife of Destruction.  He states that one of his research motivations was to address “how rubble affects human bodies and, more important, of how the same object may affect people with different class and cultural backgrounds very differently” (5).  While thinking about how Twitter and the Twitter Archive (TWARC) command-line research tool could be useful in my own studies, it struck me that there might be value in determining how “rubble” is employed in social media conversations. 
+As I am also enrolled in Professor Kari Kraus’s ENGL 702: “Ruins: Literatures and Theories of Decay,” I spent several weeks contemplating the meaning of various words associated with age and deterioration.  One of the most intriguing terms that we’ve addressed extensively in that class is “rubble.”  To ground our conversation, Professor Kraus directed us to read the introduction to Gastón R. Gordillo’s 2014 book, *Rubble: The Afterlife of Destruction*.  He states that one of his research motivations was to address “how rubble affects human bodies and, more important, of how the same object may affect people with different class and cultural backgrounds very differently” (5).  While thinking about how Twitter and the Twitter Archive (TWARC) command-line research tool could be useful in my own studies, it struck me that there might be value in determining how “rubble” is employed in social media conversations. 
 
 Before our Tuesday, May 1st, 2018 ENGL 688K meeting, I executed a search for “rubble” via the TWARC command line prompt within Google’s Cloud Shell online emulator.  Thanks to detailed written guidance from Purdom Lindblad and Ed Summers, I was able to organize the retrieved data in a Google Spreadsheet. 
 
@@ -12,11 +12,11 @@ During a 2017 keynote lecture at the University of Maryland’s “Library Resea
 
 
 ## Works Cited
-Gordillo, Gastón R. Rubble: The Afterlife of Destruction.  Duke UP, 2014.
+Gordillo, Gastón R. *Rubble: The Afterlife of Destruction*.  Duke UP, 2014.
 
 Lindblad, Purdom. “Advocacy by Design: Moving Between Theory & Practice.” Library Research & Innovative Practice Forum Keynote Lecture. College Park, MD. 8 Jun. 2017, https://drum.lib.umd.edu/handle/1903/19250. Accessed 6 May 2018. 
 
-Kang, Martha. “Exploring the 7 Different Types of Data Stories.” Mediashift.org, 15 Jun. 2015, http://mediashift.org/2015/06/exploring-the-7-different-types-of-data-stories. Accessed 6 May 2018. 
+Kang, Martha. “Exploring the 7 Different Types of Data Stories.” *Mediashift.org*, 15 Jun. 2015, http://mediashift.org/2015/06/exploring-the-7-different-types-of-data-stories. Accessed 6 May 2018. 
 
 A link to my [data](https://docs.google.com/spreadsheets/d/1LTMXNeOAaVta4koQq3roJ7jNC8wRCyNuAOMP6wJGTAg/edit#gid=626141940)
 
